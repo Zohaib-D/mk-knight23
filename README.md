@@ -1,7 +1,7 @@
 ### Hi there, I'm Kazi - aka [mk-knight23][website] 👋
 
 <!-- [![Website](https://img.shields.io/website?label=mk-knight23.com&style=for-the-badge&url=https%3A%2F%2Fmk-knight23.com)](https://mk-knight23.com) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/mk-knight23?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmk-knight23&screen_name=mk-knight23)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mk_knight_23?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmk-knight23&screen_name=mk-knight23)
 
 ## I'm a Student And Developer !!!
 
@@ -29,7 +29,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mk](https://dev.to/mk-knight23)
+- [MK-KNIGHT Blogs's ](https://dev.to/mkknight23)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -55,7 +55,7 @@
 </details>
 
 [website]: https://mk-knight23.com
-[twitter]: https://twitter.com/mk-knight23
+[twitter]: https://twitter.com/mk_knight_23
 [youtube]: https://youtube.com/mk-knight23
-[instagram]: https://instagram.com/mk-knight23
-[linkedin]: https://linkedin.com/in/mk-knight23
+[instagram]: https://instagram.com/kazi_musharraf_01
+[linkedin]: https://linkedin.com/in/mk-knight-1373271b8
