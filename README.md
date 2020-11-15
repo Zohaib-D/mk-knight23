@@ -1,8 +1,5 @@
 ### Hi there, I'm Kazi - aka [mk-knight23][website] 👋
 
-<!-- [![Website](https://img.shields.io/website?label=mk-knight23.com&style=for-the-badge&url=https%3A%2F%2Fmk-knight23.com)](https://mk-knight23.com) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/mk_knight_23?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmk-knight23&screen_name=mk-knight23)
-
 ## I'm a Student And Developer !!!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
