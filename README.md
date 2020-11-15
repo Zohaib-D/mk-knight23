@@ -1,4 +1,4 @@
-### Hi there, I'm Kazi - aka [mk-knight23][website] 👋
+### Hi there, I'm Kazi - aka mk-knight23 👋
 
 ## I'm a Student And Developer !!!
 
