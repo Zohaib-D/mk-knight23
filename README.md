@@ -42,14 +42,6 @@
 5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 <!--END_SECTION:activity-->
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="mk-knight23's GitHub Stats" src="https://github-readme-stats.mk-knight23.vercel.app/api?username=mk-knight23&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://mk-knight23.com
 [twitter]: https://twitter.com/mk_knight_23
