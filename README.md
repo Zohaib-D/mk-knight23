@@ -31,17 +31,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/mk-knight23/mk-knight23/pull/14) in [mk-knight23/mk-knight23](https://github.com/mk-knight23/mk-knight23)
-2. 🗣 Commented on [#14](https://github.com/mk-knight23/mk-knight23/issues/14) in [mk-knight23/mk-knight23](https://github.com/mk-knight23/mk-knight23)
-3. ❌ Closed PR [#7](https://github.com/mk-knight23/mk-knight23/pull/7) in [mk-knight23/mk-knight23](https://github.com/mk-knight23/mk-knight23)
-4. 🎉 Merged PR [#6](https://github.com/mk-knight23/mk-knight23/pull/6) in [mk-knight23/mk-knight23](https://github.com/mk-knight23/mk-knight23)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-<!--END_SECTION:activity-->
-
 
 [website]: https://mk-knight23.com
 [twitter]: https://twitter.com/mk_knight_23
