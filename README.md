@@ -1,6 +1,6 @@
 ### Hi there, I'm Kazi - aka mk-knight23 👋
 
-- I'm a Student And Developer 
+- 💻 I'm a Student And Developer 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
