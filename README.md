@@ -15,6 +15,10 @@
 ![MK KNIGHT's github stats](https://github-readme-stats.vercel.app/api?username=mk-knight23&count_private=true&issues=true&theme=tokyonight&show_icons=true&hide=stars&line_height=24)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk-knight23&line_height=50&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/mk-knight23/github-readme-stats)
 
+<!--[![MK KNIGHT's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/mkknight23)-->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mk-knight23)
+
+
 ### Connect with me:
 
 <!-- [<img align="left" alt="mk-knight23.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
@@ -23,19 +27,11 @@
 [<img align="left" alt="mk-knight23 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mk-knight23 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
-<br />
-
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [MK-KNIGHT Blogs's ](https://dev.to/mkknight23)
 <!-- BLOG-POST-LIST:END -->
-
----
 
 
 [website]: https://mk-knight23.com
