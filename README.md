@@ -1,14 +1,10 @@
 ### Hi there, I'm Kazi - aka mk-knight23 👋
 
-## I'm a Student And Developer !!!
-
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
+- I'm a Student And Developer 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Watch Movies And Series...
-
----
 
 ### 📕 Latest GIT REPOS
 
@@ -16,8 +12,8 @@
 - [MK-ALL-REPOS](https://github.com/mk-knight23/MK-ALL-REPOS)
 <!-- BLOG-POST-LIST:END -->
 
----
-
+![MK KNIGHT's github stats](https://github-readme-stats.vercel.app/api?username=mk-knight23&count_private=true&issues=true&theme=tokyonight&show_icons=true&hide=stars&line_height=24)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk-knight23&line_height=50&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/mk-knight23/github-readme-stats)
 
 ### Connect with me:
 
