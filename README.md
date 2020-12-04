@@ -6,13 +6,13 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Watch Movies And Series...
 
-### 📕 Latest GIT REPOS
-
-- [MK-ALL-REPOS](https://github.com/mk-knight23/MK-ALL-REPOS)
-
 <p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=mk-knight23&show_icons=true&theme=tokyonight" /></p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mk-knight23)
+
+### 📕 Latest GIT REPOS
+
+- [MK-ALL-REPOS](https://github.com/mk-knight23/MK-ALL-REPOS)
 
 ### 📕 Connect with me:
 
