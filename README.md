@@ -27,7 +27,7 @@
 
 - [MK-KNIGHT Blogs's ](https://dev.to/mkknight23)
 
-<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-knight23&show_icons=true&theme=tokyonight" /></p>
+<p align="center"><img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-knight23&show_icons=true&theme=tokyonight" /></p>
 
 [twitter]: https://twitter.com/mk_knight_23
 [instagram]: https://instagram.com/kazi_musharraf_01
