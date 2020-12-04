@@ -10,13 +10,10 @@
 
 - [MK-ALL-REPOS](https://github.com/mk-knight23/MK-ALL-REPOS)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk-knight23&line_height=50&layout=compact&show_icons=true&theme=algolia)](https://github.com/mk-knight23/github-readme-stats)
-
-<!--[![MK KNIGHT's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/mkknight23)-->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mk-knight23)
-
 <p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=mk-knight23&show_icons=true&theme=tokyonight" /></p>
 <p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-knight23&show_icons=true&theme=tokyonight" /></p>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mk-knight23)
 
 ### 📕 Connect with me:
 
