@@ -8,9 +8,7 @@
 
 ### 📕 Latest GIT REPOS
 
-<!-- BLOG-POST-LIST:START -->
 - [MK-ALL-REPOS](https://github.com/mk-knight23/MK-ALL-REPOS)
-<!-- BLOG-POST-LIST:END -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk-knight23&line_height=50&layout=compact&show_icons=true&theme=algolia)](https://github.com/mk-knight23/github-readme-stats)
 
@@ -18,10 +16,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mk-knight23)
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=mk-knight23&show_icons=true&theme=tokyonight" /></p>
-### Connect with me:
 
-<!-- [<img align="left" alt="mk-knight23.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-<!-- [<img align="left" alt="mk-knight23 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+### 📕 Connect with me:
+
 [<img align="left" alt="mk-knight23 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mk-knight23 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mk-knight23 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -34,9 +31,6 @@
 - [MK-KNIGHT Blogs's ](https://dev.to/mkknight23)
 <!-- BLOG-POST-LIST:END -->
 
-
-[website]: https://mk-knight23.com
 [twitter]: https://twitter.com/mk_knight_23
-[youtube]: https://youtube.com/mk-knight23
 [instagram]: https://instagram.com/kazi_musharraf_01
 [linkedin]: https://linkedin.com/in/mk-knight-1373271b8
