@@ -16,17 +16,15 @@
 
 ### 📕 Connect with me:
 
-[<img align="left" alt="mk-knight23 | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mk-knight23 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mk-knight23 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="mk-knight23 | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="mk-knight23 | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="mk-knight23 | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br>
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
 - [MK-KNIGHT Blogs's ](https://dev.to/mkknight23)
-<!-- BLOG-POST-LIST:END -->
 
 <p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-knight23&show_icons=true&theme=tokyonight" /></p>
 
