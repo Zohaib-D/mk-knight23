@@ -11,7 +11,6 @@
 - [MK-ALL-REPOS](https://github.com/mk-knight23/MK-ALL-REPOS)
 
 <p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=mk-knight23&show_icons=true&theme=tokyonight" /></p>
-<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-knight23&show_icons=true&theme=tokyonight" /></p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mk-knight23)
 
@@ -28,6 +27,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [MK-KNIGHT Blogs's ](https://dev.to/mkknight23)
 <!-- BLOG-POST-LIST:END -->
+
+<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-knight23&show_icons=true&theme=tokyonight" /></p>
 
 [twitter]: https://twitter.com/mk_knight_23
 [instagram]: https://instagram.com/kazi_musharraf_01
