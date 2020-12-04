@@ -10,11 +10,11 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mk-knight23)
 
-### 📕 Latest GIT REPOS
+### 📕 Latest ALL GITHUB REPOS :
 
 - [MK-ALL-REPOS](https://github.com/mk-knight23/MK-ALL-REPOS)
 
-### 📕 Connect with me:
+### 📕 Connect With Me :
 
 [<img align="left" alt="mk-knight23 | Twitter" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mk-knight23 | LinkedIn" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -23,7 +23,7 @@
 <br>
 <br>
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts :
 
 - [MK-KNIGHT Blogs's ](https://dev.to/mkknight23)
 
